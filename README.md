@@ -20,8 +20,8 @@ You can also:
 **install pyftpdlib**
 
 **Steps to run:-**
-1. Start the FTP server: py FTPSer.py
-2. Create tartarus platforms on the client and server sides:
+- Start the FTP server: py FTPSer.py
+- Create tartarus platforms on the client and server sides:
    - Client Side:- node2.pl file
    - Server side:- node1.pl file
 <br>
